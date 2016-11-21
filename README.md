@@ -3,19 +3,19 @@ Objective: purpose of this project is given a url we should be able to display t
 
 # Logical Flow of the project
 Directory structure is as follows:
-<br> css (all styles)
-<br> img (all images)
-<br> index.html
-<br> js (linkPreview.js)
-<br> php 
-    <br> textCrawler.php (Master Router to initiate the crawling process), 
-    <br> Content.php (deals with get Content based on Image, Tag and meta information after scraping), 
-    <br> Json.php (Utility for the jsonizing data), 
-    <br> LinkPreview.php (Crawling code starts from here which takes uses Media, Regex, Contet etc), 
-    <br> Media.php, 
-    <br> Regex.php, 
-    <br> Setup.php, 
-    <br> Url.php)
+<br> <b>css</b> (all styles)
+<br> <b>img (all images)</b>
+<br> <b>index.html</b>
+<br> <b>js (linkPreview.js)</b>
+<br> <b>php</b> 
+    <br> <b>textCrawler.php (Master Router to initiate the crawling process)</b>, 
+    <br> <b>Content.php (deals with get Content based on Image, Tag and meta information after scraping)</b>, 
+    <br> <b>Json.php (Utility for the jsonizing data)</b>, 
+    <br><b>LinkPreview.php (Crawling code starts from here which takes uses Media, Regex, Contet etc)</b>, 
+    <br><b>Media.php</b>, 
+    <br><b>Regex.php</b>, 
+    <br><b>Setup.php</b>, 
+    <br><b>Url.php</b>)
 
 # Requirements to see it working:
 <br>Apache2 server

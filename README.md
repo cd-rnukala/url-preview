@@ -8,14 +8,14 @@ Directory structure is as follows:
 <br> index.html
 <br> js (linkPreview.js)
 <br> php 
-    i) textCrawler.php (Master Router to initiate the crawling process), 
-    ii) Content.php (deals with get Content based on Image, Tag and meta information after scraping), 
-    iii) Json.php (Utility for the jsonizing data), 
-    iv) LinkPreview.php (Crawling code starts from here which takes uses Media, Regex, Contet etc), 
-    v) Media.php, 
-    vi) Regex.php, 
-    vii) Setup.php, 
-    viii) Url.php)
+    <br> textCrawler.php (Master Router to initiate the crawling process), 
+    <br> Content.php (deals with get Content based on Image, Tag and meta information after scraping), 
+    <br> Json.php (Utility for the jsonizing data), 
+    <br> LinkPreview.php (Crawling code starts from here which takes uses Media, Regex, Contet etc), 
+    <br> Media.php, 
+    <br> Regex.php, 
+    <br> Setup.php, 
+    <br> Url.php)
 
 # Requirements to see it working:
 <br>Apache2 server

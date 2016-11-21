@@ -19,9 +19,7 @@ Url.php)
 
 # Requirements to see it working:
 a) Apache2 server
-b) Copy the url-preview folder to /var/www/html folder or in MacOsx   
-
-# /Library/WebServer/Documents/url-preview
+b) Copy the url-preview folder to /var/www/html folder or in MacOsx   (# /Library/WebServer/Documents/url-preview)
 Once the apache Server is up and running below is the url to access it.
 http://${host}/url-preview/index.html
 
